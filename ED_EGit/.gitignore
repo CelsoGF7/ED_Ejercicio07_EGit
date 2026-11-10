@@ -1,0 +1,20 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilación
+/bin/
+/target/
+
+# Configuración y metadatos locales de Eclipse
+.metadata/
+.recommenders/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
